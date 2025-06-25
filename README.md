@@ -1,3 +1,3 @@
 # shrutimore-demo
 <br>
-Author-Shruti More
+Author-Shruti Marne
